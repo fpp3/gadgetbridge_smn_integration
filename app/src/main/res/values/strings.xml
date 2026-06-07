@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GB SMN Weather</string>
+    <string name="location_mode">Location mode</string>
+    <string name="current_location">Current location</string>
+    <string name="fixed_location">Fixed location</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="update_rate_minutes">Update rate (minutes, min 15)</string>
+    <string name="save_settings">Save settings</string>
+    <string name="update_now">Update now</string>
+    <string name="status_idle">Status: idle</string>
+</resources>
